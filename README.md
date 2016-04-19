@@ -1,5 +1,5 @@
 # alpine_docker_ssh
-Base-example to create a container-playground with ssh an central ssh-key.
+Base-example to create a container-playground with ssh and central ssh-key.
 
 To create an user on the alpinelinux-host:
 <pre><code>sh-keygen -f containeradmin -t rsa -b 4096 -C containeradmin -N ''
